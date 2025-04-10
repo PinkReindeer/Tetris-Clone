@@ -20,6 +20,11 @@
 - Spacebar: Rotate the block
 - R Key: Change to next block
 
+## Prerequisites
+
+- C++14 or later
+- raylib installed on your system
+
 ## Credits
 
 - Tetris concept: [Tetris Wiki](https://tetris.wiki/)
