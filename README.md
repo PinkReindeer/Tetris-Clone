@@ -1,28 +1,18 @@
-# Tetris Clone
+# Tetris Clone - A Custom C++ Tetris Implementation using raylib
 
-This project is a modified and improved version of the original [Cpp-Tetris-Game-with-raylib](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib) by **educ8s**.
+**Tetris Clone** is a Tetris game built from scratch in C++ using the [raylib](https://www.raylib.com/) graphics library.  
 
-Tetris-Clone is a terminal-based Tetris game built with C++ and the [raylib](https://www.raylib.com/) graphics library. This version features improvements to the visuals and added gameplay functionality, aiming to create a smoother and more enjoyable experience.
+> **Inspired by** the gameplay and idea from various Tetris projects, including:
+> - [educ8s' C++ Tetris Game](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib)
 
 ## Features
 
-- Classic Tetris gameplay
-- Clean and modern graphics (powered by raylib)
-- Improved user experiments compared to original
-- New features added:
-  - Difficulty increase base on player's score
-  - Move block continuosly
-  - Adding time that allow player can rotate after block is fit
-  - Improve performace and memory
+- Classic Tetris mechanics
+- Change the current block to the next block
+- Clean UI and simple design
 
-## Installation
+## Credits
 
-### Prerequisites
-
-- C++14 or later
-- raylib installed on your system
-
-### On Windows (using MSYS2 or MinGW)
-
-```bash
-g++ main.cpp -o tetris -lraylib -lopengl32 -lgdi32 -lwinmm
+- Tetris concept: [Tetris Wiki](https://tetris.wiki/)
+- Inspiration: [educ8s' project](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib)
+- Developed by: **PinkReindeer**
