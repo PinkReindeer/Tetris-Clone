@@ -1,4 +1,4 @@
-#Tetris Clone
+# Tetris Clone
 
 This project is a modified and improved version of the original [Cpp-Tetris-Game-with-raylib](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib) by **educ8s**.
 
