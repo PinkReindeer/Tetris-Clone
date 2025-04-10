@@ -11,6 +11,14 @@
 - Change the current block to the next block
 - Clean UI and simple design
 
+## Controls
+
+- Left Arrow Key: Move the block left
+- Right Arrow Key: Move the block right
+- Down Arrow Key: Move the block down
+- Spacebar: Rotate the block
+- R Key: Change to next block
+
 ## Credits
 
 - Tetris concept: [Tetris Wiki](https://tetris.wiki/)
