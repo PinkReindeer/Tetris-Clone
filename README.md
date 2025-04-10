@@ -8,6 +8,7 @@
 ## Features
 
 - Classic Tetris mechanics
+- Score tracking
 - Change the current block to the next block
 - Clean UI and simple design
 
