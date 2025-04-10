@@ -1,4 +1,4 @@
-# Tetris Clone - A Custom C++ Tetris Implementation using raylib
+# Tetris Clone - A C++ Tetris game using raylib
 
 **Tetris Clone** is a Tetris game built from scratch in C++ using the [raylib](https://www.raylib.com/) graphics library.  
 
