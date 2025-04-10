@@ -1,3 +1,5 @@
+#Tetris Clone
+
 This project is a modified and improved version of the original [Cpp-Tetris-Game-with-raylib](https://github.com/educ8s/Cpp-Tetris-Game-with-raylib) by **educ8s**.
 
 Tetris-Clone is a terminal-based Tetris game built with C++ and the [raylib](https://www.raylib.com/) graphics library. This version features improvements to the visuals and added gameplay functionality, aiming to create a smoother and more enjoyable experience.
